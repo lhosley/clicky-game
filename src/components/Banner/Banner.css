@@ -1,0 +1,17 @@
+.jumbotron {
+  /*  Background fallback in case of IE8 & down, or in case the image doesn't load, such as with slower connections  */
+  background: url("http://www.federalflags.com/Shared/Images/Product/3x5ft-Sewn-Nylon-American-Flag/Nylon-American-Flag-closeup.jpg")
+    center center no-repeat fixed #a82323;
+
+  font-family: "Courier New", Courier, monospace;
+  height: 200px;
+  width: auto;
+  opacity: 0.7;
+}
+
+h1,
+h4 {
+  color: #fc5204;
+  font-weight: bold;
+  opacity: 1;
+}
